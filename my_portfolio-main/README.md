@@ -1,6 +1,0 @@
-# my_portfolio
-My personally designed portfolio....
-
-Know about me....
-
-Visit- https://kiraxgodara.github.io/my_portfolio 
